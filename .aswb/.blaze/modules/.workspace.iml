@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="Blaze" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="" />
+        <option name="PROJECT_TYPE" value="1" />
+        <option name="ENABLE_SOURCES_AUTOGENERATION" value="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/test/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../.." />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-android_local_test" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-genfiles" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-testlogs" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="java_compiler_4896bf3a" level="project" />
+    <orderEntry type="library" name="jdk_compiler_4896bf3a" level="project" />
+    <orderEntry type="library" name="appcompat-1.0.2_a0bc92a" level="project" />
+    <orderEntry type="library" name="header_utils-reflector-4.8.1_a9d2b558" level="project" />
+    <orderEntry type="library" name="classes_and_libs_merged_61d6793c" level="project" />
+    <orderEntry type="library" name="classes_and_libs_merged_40002b17" level="project" />
+    <orderEntry type="library" name="classes_and_libs_merged_3494769c" level="project" />
+    <orderEntry type="library" name="Runner_deploy_4896bf3a" level="project" />
+    <orderEntry type="library" name="header_lifecycle-common-2.0.0_f4b800af" level="project" />
+    <orderEntry type="library" name="classes_and_libs_merged_ea287f1c" level="project" />
+    <orderEntry type="library" name="android_499e876d" level="project" />
+    <orderEntry type="library" name="assertj-core-3.12.1_834f1574" level="project" />
+    <orderEntry type="library" name="robolectric-4.8.1_59b66eac" level="project" />
+    <orderEntry type="library" name="annotation-1.1.0_45ef8b81" level="project" />
+    <orderEntry type="library" name="classes_and_libs_merged_bada3d26" level="project" />
+    <orderEntry type="library" name="shadows-framework-4.8.1_28d08598" level="project" />
+    <orderEntry type="module" module-name="src.main.my_lib" exported="" />
+  </component>
+</module>
